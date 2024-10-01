@@ -1,11 +1,15 @@
-## Hi there 👋
+- 👋 Hi, I’m Praful Adiga (@PA055)
+- 🔭 I’m currently working on a game
+- 👀 I’m interested in coding, cybersecurity, and math
+- 🌱 I’m currently learning about set theory🔥
+- 📫 You can reach me through email: `praful.adiga@gmail.com`, or my discord: `lufimio`
 
+<!--[![PA055's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa055)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **PA055/PA055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
